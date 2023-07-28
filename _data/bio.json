@@ -10,22 +10,18 @@
     "location": { "address": "", "postalCode": "20164", "city": "Sterling", "countryCode": "USA", "region": "Virginia" },
     "profiles": [
       { "network": "github", "username": "henmel1", "url": "http://github.com/henmel1" },
-      { "network": "linkedin", "username": "Henry Mellor", "url": "https://www.linkedin.com/in/henry-mellor-409675249/" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "Henry Mellor", "url": "https://www.linkedin.com/in/henry-mellor-409675249/" }
     ]
   },
   "interests": [
     { "name": "Web Development" },
     { "name": "Data Science" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Back-end" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "Python", "Assembly", "Common Lisp" ]
+      "keywords": [ "Java", "Python", "Django", "JavaScript", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
@@ -35,7 +31,7 @@
   "education": [
     {
       "institution": "Virginia Tech, Blacksburg, Virginia",
-      "area": "Computer Science (expected Fall, 2025)",
+      "area": "Computer Science (expected Fall, 2025) (3.62 GPA)",
       "studyType": "B.S.",
       "startDate": "2022-08-22",
       "endDate": "Present",
@@ -45,27 +41,26 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Virginia Tech Business and Management Systems",
+      "position": "Operations IT Intern",
+      "website": "https://bams.vt.edu/",
+      "startDate": "2022-09-01",
+      "endDate": "2023-05-01",
+      "summary": "Operations IT support for administrators at Virginia Tech",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and deploy hundreds of computers across the school's administration",
+        "Troubleshoot and solve technological issues which may inhibit users' workflows both in-person and over the phone."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Matthews Family",
+      "position": "Calculus I, II Tutor",
+      "startDate": "2023-01-01",
+      "endDate": "2023-05-10",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Teach and reinforce calculus concepts in a virtual environment",
+        "Explain concepts in an easy-to-understand and effective way"
       ]
     }
   ],
@@ -98,16 +93,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2022-Present",
+      "awarder": "Virginia Tech Dean's Office",
+      "summary": "Awarded to students earning and maintaining a 3.5 GPA or higher throughout the semester."
     }
   ],
   "references": [
