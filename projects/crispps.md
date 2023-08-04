@@ -11,7 +11,7 @@ labels:
 summary: "A simple, lightweight, multi-platform IRC client."
 ---
 
-<img class="img-fluid" src="../img/crispps/crispps-header.png">
+<img class="img-fluid" src="../img/crispps/crispps-banner.png">
 
   CrisspsIRC is a simple, lightweight IRC client created as a personal project to connect to a friend's IRC server.
 
