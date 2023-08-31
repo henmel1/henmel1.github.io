@@ -21,17 +21,17 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "Python", "Tkinter", "Flask", "SQL", "HTML", "CSS" ]
+      "keywords": [ "Java", "Python", "JavaScript", "Tkinter", "Flask", "SQL", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git" ]
+      "keywords": [ "Linux/Unix", "MacOS", "Windows", "Git" ]
     }
   ],
   "education": [
     {
       "institution": "Virginia Tech, Blacksburg, Virginia",
-      "area": "Computer Science (expected Fall, 2025) (3.62 GPA)",
+      "area": "Computer Science (expected Fall, 2025) (3.63 GPA)",
       "studyType": "B.S.",
       "startDate": "2022-08-22",
       "endDate": "Present",
@@ -45,11 +45,12 @@
       "position": "Operations IT Intern",
       "website": "https://bams.vt.edu/",
       "startDate": "2022-09-01",
-      "endDate": "2023-05-01",
-      "summary": "Operations IT support for administrators at Virginia Tech",
+      "endDate": "Present",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and deploy hundreds of computers across the school's administration",
-        "Troubleshoot and solve technological issues which may inhibit users' workflows both in-person and over the phone."
+        "Assisted clients with IT problems ranging from password resets to large-scale deployments",
+        "Personally responsible for the deployment of over 200 machines to various groups of administrative clients",
+        "Utilized troubleshooting and problem-solving skills to find efficient solutions to previously undocumented problems"
       ]
     },
     {
@@ -59,8 +60,9 @@
       "endDate": "2023-05-10",
       "summary": "",
       "highlights": [
-        "Teach and reinforce calculus concepts in a virtual environment",
-        "Explain concepts in an easy-to-understand and effective way"
+        "Tutored client in calculus I and II, including basic and complex functions, derivation, integration, and trigonometry",
+        "Helped student apply learned topics to relevant real-life scenarios in order to develop problem-solving skills",
+        "Employed teaching and communication skills in order to ensure student gained in-depth understanding of learned materials and how to apply them"
       ]
     }
   ],
